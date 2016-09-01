@@ -1,4 +1,4 @@
-package com.test.common.filter;
+package com.test.web.filter;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
